@@ -19,3 +19,10 @@ SUB-DIRECTORY	PURPOSE
 /var	variable and log files 
 
 
+*HOW TO INSTALL APPS*
+-There are a few ways to install apps
+-You can use the app storage
+-Or you can you the Adavanced Package Tool (APT)
+    -sudo apt install nodejs
+
+    

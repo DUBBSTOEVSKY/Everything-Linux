@@ -1,4 +1,4 @@
-### Essential Linux Commands
+# Essential Linux Commands
 
 This file contains a list of essential Linux commands that I've found useful in my Linux journey. Feel free to use this as a reference.
 

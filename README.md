@@ -1,4 +1,4 @@
-### Everything Linux Repository 🐧
+### Everything Linux Repository 
 
 ## Introduction
 
